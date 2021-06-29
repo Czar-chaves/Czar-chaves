@@ -1,4 +1,4 @@
-# Hi, I'm César! ![image](https://user-images.githubusercontent.com/82776278/123723270-6a7d7900-d860-11eb-94f2-5dca896ce1f7.png)
+# Hi, I'm César! :)
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/Czar-chaves)](https://https://github.com/Czar-chaves)
