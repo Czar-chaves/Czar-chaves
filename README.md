@@ -1,4 +1,11 @@
-### Hi there 👋
+Olá amigos 👋
+
+------------ | -------------
+
+Sou estudante de Análise e desenvolvimento de sistemas, apaixonado por programação
+
+------------ | -------------
+
 
 <!--
 **Czar-chaves/Czar-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
