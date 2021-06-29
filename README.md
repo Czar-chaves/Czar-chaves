@@ -4,8 +4,8 @@
 <a href="https://instagram.com/czarchavez" target="_blank"><img  src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=dark-blue&logo=Instagram&logoColor=purple=https:twitter.com/Czazchavez" ></a>
 <a href="https://twitter.com/Czazchavez" target="_blank"><img  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https:twitter.com/Czazchavez" ></a>
 
-<h2 align="center">About me </h2>
-<h2 align="center">I'm a {backend, frontend and mobile} developer and studant.</h2>
+<h2 align="center">About me 
+<br>I'm a {backend, frontend and mobile} developer and studant.</h2>
 
 
 <h2 align="center">Languages and Tools  
